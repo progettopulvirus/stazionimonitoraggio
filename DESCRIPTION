@@ -1,0 +1,18 @@
+Package: stazioniMonitoraggio
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Guido",
+           family = "Fioravanti",
+           role = c("cre"),
+           email = "guido.fioravanti@isprambiente.it")
+Description: Il pacchetto contiene un dataframe stazioni con l'anagrafica delle stazioni di monitoraggio.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
+Imports: 
+    tibble
