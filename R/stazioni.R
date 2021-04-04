@@ -7,6 +7,9 @@
 #' serie complete solo 2020 sono serie che rispettano i criteri di completezza mensile nel periodo gennaio - maggio 2020
 #' serie complete 2016 - 2020 sono le serie che rispettano i criteri di completezza per tutto il periodo 2016 - 2020
 #' Tutte le altre voci specificano il motivo per cui una serie non e' considerata completa. NA compare per le serie che non hanno dati per lo specifico inquinante.
+#' i_surface: impervious surface (valore percentuale tra 0 e 100)
+#' d_a1: distanze da strade di tipo a1
+#' d_a2: distanze da strade di tipo a2
 #' 
 #' @usage
 #' stazioni
