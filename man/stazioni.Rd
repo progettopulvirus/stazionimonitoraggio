@@ -18,5 +18,6 @@ Tutte le altre voci specificano il motivo per cui una serie non e' considerata c
 i_surface: impervious surface (valore percentuale tra 0 e 100)
 d_a1: distanze da strade di tipo a1
 d_a2: distanze da strade di tipo a2
+altitudedem: altitudine ricavata da DEM dell'USGS (variabile precedentemente nel data.frame meteo del pacchetto datiMeteo)
 }
 \keyword{datasets}
