@@ -1,12 +1,12 @@
 Package: stazioniMonitoraggio
 Title: What the Package Does (One Line, Title Case)
-Version: 2.0.0.0
+Version: 3.0.0.0
 Authors@R: 
     person(given = "Guido",
            family = "Fioravanti",
            role = c("cre"),
            email = "guido.fioravanti@isprambiente.it")
-Description: Il pacchetto contiene un dataframe stazioni con l'anagrafica delle stazioni di monitoraggio.
+Description: Il pacchetto contiene un dataframe stazioni con l'anagrafica delle stazioni di monitoraggio e informazioni derivate dal Corine Land Cover a altre fonti di dati.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

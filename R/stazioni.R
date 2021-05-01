@@ -11,7 +11,17 @@
 #' d_a1: distanze da strade di tipo a1
 #' d_a2: distanze da strade di tipo a2
 #' altitudedem: altitudine ricavata da DEM dell'USGS (variabile precedentemente nel data.frame meteo del pacchetto datiMeteo)
-#' 
+#' clc_agricultural: percentuale agricoltura (CORINE LAND COVER)
+#' clc_arable: percentuale arable
+#' clc_deciduous: percentuale deciduous
+#' clc_evergreen: percentuale evergreen
+#' clc_highdev: percentuale high density population
+#' clc_lowdev: percentuale low density population 
+#' clc_pasture: percentuale pasture
+#' clc_shrub: percentuale shrub
+#' clc_crop: percentuale crop
+#' d_aeroporti: distanza euclidea aeroporto piu' vicino (in metri)
+#' d_impianti: distanza euclidea impianto industriale piu' vicino (in metri)
 #' @usage
 #' stazioni
 "stazioni"
